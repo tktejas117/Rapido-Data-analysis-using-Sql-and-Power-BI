@@ -33,12 +33,14 @@
 - Useful for loyalty programs and targeted marketing.
 
 # 4. Cancellation
+
+
+![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Cancell.png) 
 - Detailed pie charts showing cancellation reasons:
 - Customer-side: Wrong address, change of plans, driver not arriving, etc.
 - Driver-side: Customer not responding, coughing, not at pickup, etc.
 
-![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Cancell.png) 
-
+  
 # 5. Rating Dashboard
 - Driver ratings range from 3.99 to 4.01 across all vehicle types
 - Customer ratings slightly lower, with Cab Premium at 3.98
@@ -65,7 +67,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Rapido  Dataset](https://www.kaggle.com/datasets/tejaskumars117/rapido-dataset)
 
-
+```
 
 ## SOFTWARE Requirement
 
