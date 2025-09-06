@@ -3,7 +3,7 @@
 # SnapShots
 # 1. OVERALL Dashboard
 
-![](https://github.com/tktejas117/Bank-Loan-Data-Analysis-Using-SQL-Power-BI/blob/main/Snapshots/Summary.png)
+![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Overall.png)
 
 - Total Bookings: 20,407; Successful: 12,265; Cancelled: 5,870
 - Cancellation reasons split between customer and driver actions
@@ -13,7 +13,7 @@
 
 # 2. Vehical Type
 
-![](https://github.com/tktejas117/Bank-Loan-Data-Analysis-Using-SQL-Power-BI/blob/main/Snapshots/Overview.png)
+![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Vehical%20Type.png)
 
 - Compares booking value, success rate, and travel distance across 7 vehicle types
 - Cab XL and Cab Premium show highest average distance per ride
@@ -23,7 +23,7 @@
 
 # 3. Revenue & Payment Behavior Dashboard
 
-![](https://github.com/tktejas117/Bank-Loan-Data-Analysis-Using-SQL-Power-BI/blob/main/Snapshots/Details.png) 
+![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Revenue.png) 
 
 - Revenue by Payment Method:
 - Visual breakdown of revenue from Cash, UPI, Credit Card, and Debit Card.
@@ -37,14 +37,14 @@
 - Customer-side: Wrong address, change of plans, driver not arriving, etc.
 - Driver-side: Customer not responding, coughing, not at pickup, etc.
 
-![](https://github.com/tktejas117/Bank-Loan-Data-Analysis-Using-SQL-Power-BI/blob/main/Snapshots/Details.png) 
+![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Cancell.png) 
 
 # 5. Rating Dashboard
 - Driver ratings range from 3.99 to 4.01 across all vehicle types
 - Customer ratings slightly lower, with Cab Premium at 3.98
 - Ratings indicate overall satisfaction and service consistency
 - Helps identify areas for driver training and customer experience improvemen
-![](https://github.com/tktejas117/Bank-Loan-Data-Analysis-Using-SQL-Power-BI/blob/main/Snapshots/Details.png)
+![](https://github.com/tktejas117/Rapido-Data-analysis-using-Sql-and-Power-BI/blob/main/Snapshots/Ratings.png)
 
 ## Overview
 This project delivers a comprehensive analysis of Rapido Bike Taxi operations using SQL for data extraction and Power BI for visualization. It uncovers key insights into booking behavior, vehicle performance, customer satisfaction, and revenue generation
